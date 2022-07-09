@@ -1,0 +1,15 @@
+.counter-wrapper {
+    height: 100vh;
+    padding-top: 10%;
+    color: white;
+}
+
+.counter {
+    border: 1px solid white;
+    width: 10rem;
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
